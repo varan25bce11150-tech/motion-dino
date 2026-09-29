@@ -1,0 +1,16 @@
+# Screen dimensions
+WIDTH = 800
+HEIGHT = 400
+FPS = 60
+
+# Game Physics
+GROUND_HEIGHT = 320
+GRAVITY = 0.8
+JUMP_VELOCITY = -15
+
+# Colors
+WHITE = (245, 245, 245)
+BLACK = (30, 30, 30)
+DINO_COLOR = (83, 83, 83)
+OBSTACLE_COLOR = (237, 28, 36)
+RED = (255, 50, 50)
