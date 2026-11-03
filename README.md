@@ -86,7 +86,7 @@ motion-dino/
 --------------------------------------------------------------------
 
 1. Clone the repository:
-   git clone https://github.com/your-username/motion-dino.git
+   git clone https://github.com/varan25bce11150-tech/motion-dino.git
    cd motion-dino
 
 2. Create and activate a virtual environment:
